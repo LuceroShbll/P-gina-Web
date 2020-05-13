@@ -1,11 +1,11 @@
 <?php
 
-    $to = "rockybd1995@gmail.com";
-    $from = $_REQUEST['email'];
-    $name = $_REQUEST['name'];
-    $subject = $_REQUEST['subject'];
-    $number = $_REQUEST['number'];
-    $cmessage = $_REQUEST['message'];
+    $to = "lshbll@outlook.com";
+    $from = $_REQUEST['lshbll@outlook.com'];
+    $name = $_REQUEST['LuceroShbll'];
+    $subject = $_REQUEST['Lucero Ticona'];
+    $number = $_REQUEST['+51937303327'];
+    $cmessage = $_REQUEST['Hola'];
 
     $headers = "From: $from";
 	$headers = "From: " . $from . "\r\n";
